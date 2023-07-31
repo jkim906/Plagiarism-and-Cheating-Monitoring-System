@@ -1,4 +1,4 @@
-# Plagiarism-and-Cheating-Monitoring-System
+# Plagiarism and Cheating Monitoring System
 Project Programmed with Matlab
 
 • Programmed to compare how similar two documents are, using a technique known as winnowing to produce document fingerprints.
